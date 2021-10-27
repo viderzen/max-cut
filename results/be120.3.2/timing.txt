@@ -1,0 +1,1 @@
+{"qpu_sampling_time": 24408.0, "qpu_anneal_time_per_sample": 30.55, "qpu_readout_time_per_sample": 193.46, "qpu_access_time": 39474.16, "qpu_access_overhead_time": 8810.84, "qpu_programming_time": 15066.16, "qpu_delay_time_per_sample": 20.07, "post_processing_overhead_time": 844.0, "total_post_processing_time": 844.0}
